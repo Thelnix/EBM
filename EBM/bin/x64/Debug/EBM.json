@@ -1,0 +1,19 @@
+{
+  "Author": "Thelnix",
+  "Name": "EBM (Eorzean Boss Mods)",
+  "InternalName": "EBM",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "/pmycommand",
+  "ApplicableVersion": "v0.1",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "I hope it works now.",
+  "AcceptsFeedback": true
+}

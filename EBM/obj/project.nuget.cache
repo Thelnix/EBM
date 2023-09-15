@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMDxGiALceRDwZ+MKjvyeOgnugFe8RIDpJVHEJuGzviVEeJQVvDBF1xjvf/1xemWj9rYsHxVF6QjL+lEBOm1EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thelnix\\source\\repos\\EBM\\EBM\\EBM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thelnix\\.nuget\\packages\\dalamudpackager\\2.1.10\\dalamudpackager.2.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

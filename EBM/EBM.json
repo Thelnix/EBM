@@ -1,0 +1,13 @@
+{
+  "Author": "Thelnix",
+  "Name": "EBM (Eorzean Boss Mods)",
+  "Punchline": "I hope it works now.",
+  "Description": "/pmycommand",
+  "InternalName": "EBM",
+  "ApplicableVersion": "v0.1",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
